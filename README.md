@@ -1,5 +1,5 @@
 # modarchive-dl
-Download an Users modarchive.org favorites or uploads
+Download files from https://modarchive.org. supports Downloading Random Mods and an users Favourites / Uploades
 
 Dependencies:
 wget
